@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #8A2387; /* Cor de fundo */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+section h2 {
+    font-size: 24px;
+    color: #8A2387; /* Cor de destaque */
+}
+.acai-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.acai-item img {
+    width: 100px; /* Ajuste o tamanho da imagem conforme necessário */
+    margin-right: 10px;
+}
+
